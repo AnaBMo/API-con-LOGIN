@@ -23,5 +23,3 @@ Tendremos que securizar todas las rutas para verificar si estamos logados antes 
 4. En este caso /character será res.json(), pero /character/:nombre debera devolver un HTML con los datos de nombre, género, url de la imagen, y los datos que se os ocurran
 
 El ejercicio hay que hacerlo MODULAR, no puede ser un monolito, diferenciando el archivo inical con el servidor, los middlewares, autenticaciones, rutas, usuarios...
- 
-
